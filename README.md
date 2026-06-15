@@ -1,6 +1,3 @@
-Ниже готовый README.md под твой текущий проект password-manager. Его можно просто создать в корне папки и вставить текст.
-
-text
 # Password Manager (CLI, Python + SQLite + Fernet)
 
 Небольшое CLI‑приложение на Python для безопасного хранения паролей.  
