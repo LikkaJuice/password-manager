@@ -1,0 +1,18 @@
+# виртуальное окружение
+.venv/
+venv/
+
+# SQLite база
+passwords.db
+
+# ключ шифрования
+.key
+
+# кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# системный мусор macOS
+.DS_Store
